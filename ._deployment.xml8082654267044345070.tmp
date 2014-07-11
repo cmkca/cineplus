@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://www.zend.com/server/deployment-descriptor/1.0" version="1.0">
+    <name>cineplus</name>
+    <summary>Cineplus v6.0.1</summary>
+    <version>
+    <release>6.0.1</release>
+        </version>
+    <eula>LICENSE</eula>
+    <appdir>data</appdir>
+    <docroot>data/.settings</docroot>
+    <persistentresources>
+    <resource>LICENSE</resource>
+  </persistentresources>
+</package>
